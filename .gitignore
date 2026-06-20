@@ -1,0 +1,8 @@
+# Ignora arquivos de teste baixados pelo cliente
+baixado_*
+
+# Ignora a pasta de arquivos do servidor (opcional, mas recomendado)
+arquivos/
+
+# Ignora arquivos de cache do Python
+__pycache__/
